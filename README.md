@@ -1,5 +1,5 @@
-# Second Repo
-This is my second Repo
+# Main Branch
+Here all branchs are going to merge
 <br>
 CEO - Sawaira_IFtikhar
-Reader - Yeah anycan read this is publish 
+Note - anyone can update here anytime
